@@ -44,7 +44,6 @@ Primedice Bitsler winning script
         };
         n();
     })();
-     
     function ui() {
         $(function() {
             $('#tabs').tabs();
